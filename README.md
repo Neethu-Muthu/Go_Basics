@@ -52,3 +52,17 @@ Clone the repository to your local machine and navigate to the project directory
 ```bash
 git clone https://github.com/your-repository/Go_Basics.git
 cd Go_Basics
+```
+## Run the Program
+```
+go run main.go
+or
+go run .
+```
+
+## 📜 License
+
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
+---
+
